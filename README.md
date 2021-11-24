@@ -38,7 +38,7 @@ This DoWhile Badge is an static aplication that generates a badge with the infor
 
 ## 🔖 Layout
 
-It can be visualized in [this link](https://www.figma.com/file/9Z2vxc8VTRuZpYjFalCMAl/Badge-Do-While2021-(Copy)?node-id=0%3A1). A  [Figma](https://figma.com) account is required [Figma](https://figma.com) to access.
+It can be visualized in [this link](https://www.figma.com/file/9Z2vxc8VTRuZpYjFalCMAl/Badge-Do-While2021-(Copy)?node-id=0%3A1). A  [Figma](https://figma.com) account is required to access.
 
 ## :memo: Licence
 
