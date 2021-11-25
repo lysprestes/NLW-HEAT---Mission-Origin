@@ -2,7 +2,7 @@
   Virtual DoWhile Badge
 </h1>
 
--> This project is based on [this](https://www.figma.com/file/9Z2vxc8VTRuZpYjFalCMAl/Badge-Do-While2021-(Copy)?node-id=0%3A1) project. 
+-> This repository is based on [this](https://www.figma.com/file/9Z2vxc8VTRuZpYjFalCMAl/Badge-Do-While2021-(Copy)?node-id=0%3A1) project. 
 
 
 <p align="center">
