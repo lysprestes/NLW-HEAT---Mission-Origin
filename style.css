@@ -2,14 +2,10 @@
   margin: 0;
 }
 
-html, body {
-  height: 100%;
-}
-
 html,
 body {
   --black: hsl(240, 6%, 13%);
-  --gray: hsl(240, 9%, 89%);
+  --grey: hsl(240, 9%, 89%);
 
   height: 100%;
   font-family: 'Roboto', sans-serif;
@@ -22,9 +18,11 @@ body {
 }
 
 main {
-  background: url(images/background.png);
-  width: 375px;
-  height: 812px;
+  background: url(images/background.svg) no-repeat center/cover;
+
+  width: 100vw;
+  min-height: 812px;
+  height: 100vh;
 }
 
 .container {
@@ -32,7 +30,8 @@ main {
   margin-left: auto;
   margin-right: auto;
   text-align: center;
-  color: var(--gray);
+
+  color: var(--grey);
 }
 
 .avatar {
@@ -45,6 +44,7 @@ main {
 .avatar span {
   position: absolute;
   top: -15px;
+  z-index: 1;
 }
 
 .avatar > img {
@@ -57,9 +57,35 @@ main {
 
 h1 {
   font-size: 1.5rem;
+
+  margin-top: 1.5rem;
 }
 
 a {
-  color: lightgray;
+  color: var(--grey);
   text-decoration: none;
+
+  margin-top: 0.25rem;
+
+  display: flex;
+  gap: 0.75rem;
+
+  justify-content: center;
+  align-items: center;
+}
+
+p {
+  margin-top: 2rem;
+}
+
+ul {
+  margin-top: 4rem;
+
+  list-style: none;
+  padding: 0;
+
+  display: flex;
+  gap: 0.5rem;
+
+  justify-content: center;
 }
