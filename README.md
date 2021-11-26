@@ -9,7 +9,7 @@
   <a href="#-tecnologias">Tecnologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licence</a>
+  <a href="#memo-licença">License</a>
 </p>
 
 <p align="center">
@@ -40,9 +40,9 @@ This DoWhile Badge is an static aplication that generates a badge with the infor
 
 It can be visualized in [this link](https://www.figma.com/file/9Z2vxc8VTRuZpYjFalCMAl/Badge-Do-While2021-(Copy)?node-id=0%3A1). A  [Figma](https://figma.com) account is required to access.
 
-## :memo: Licence
+## :memo: License
 
-This projet is under MIT Licence. Check the document [LICENSE](.github/LICENSE.md) for more information.
+This projet is under MIT License. Check the document [LICENSE](.github/LICENSE.md) for more information.
 
 ---
 
